@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Minjxnx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Minjxnx&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Minjxnx&theme=juicyfresh&column=-1&row=3&margin-w=2&margin-h=2&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minjxnx&radius=16&theme=elegant&area=true&order=5" height="350" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minjxnx&radius=16&theme=elegant&area=true&order=5&custom_title=My%20Contribution%20Graph!!!" height="350" alt="activity-graph graph"  />
 </div>
 
 ###
