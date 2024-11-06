@@ -1,8 +1,16 @@
-<h1 align="left">Hi there, I'm Minjana Ruwanpura... 👋</h1>
+<h1 align="left">Hi There, I'm Minjana Ruwanpura... 👋</h1>
 
 ###
 
-<br clear="both">
+<h3 align="left">Full-Stack Developer | Software Engineer</h3>
+
+<hr/>
+
+###
+
+<h1 align="left">🌟 About Me</h1>
+
+<p align="justify">I am a self-motivated full-stack developer skilled in cloud technologies, including AWS and GCP. I thrive in Agile environments, delivering robust solutions using TypeScript, React.js, Node.js, .NET, and Spring Boot. Passionate about continuous learning and innovation, I bring a proactive approach to solving complex technical challenges.</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Minjxnx&theme=juicyfresh&column=-1&row=3&margin-w=2&margin-h=2&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
