@@ -26,6 +26,12 @@
 
 ###
 
+<h1 align="left">🛠️ Skills</h1>
+
+<h3 align="left">Languages & Technologies: </h3>
+
+###
+
 <h1 align="left">📞 Contact</h1>
 
 ###
