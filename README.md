@@ -28,9 +28,9 @@
 
 <h1 align="left">🛠️ Skills</h1>
 
-<h3 align="left">Languages & Technologies: </h3>
+<h3 align="left">Languages & Technologies : </h3>
 
-<h3 align="left">Databases:  </h3>
+<h3 align="left">Databases :  </h3>
 
 ###
 
